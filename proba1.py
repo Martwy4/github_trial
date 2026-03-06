@@ -7,3 +7,7 @@ def order(cst_name, cst_order, *arg, **kwarg):
 order('Tadzia', 'black coffee')
 order('Tadea', 'black coffe', milk='whole')
 order('Tadeusza','tea','none', sweetener='honey')
+order('Tedzia','chai',addon='cinamon')
+
+
+print('Pozdrawiam serdecznie')
